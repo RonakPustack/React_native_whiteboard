@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@terrylinla/react-native-sketch-canvas": "^0.8.0",
+    "fabric-whiteboard": "^1.0.19",
     "react": "17.0.1",
-    "react-native": "0.64.0"
+    "react-native": "0.64.0",
+    "react-sketch": "^0.5.1"
   },
   "devDependencies": {
     "@babel/core": "7.13.14",
